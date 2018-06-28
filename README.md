@@ -1,2 +1,3 @@
 # hello-world
-Beginner repository
+
+new version for project hello-world
